@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Mobile-CI-CD-Deployment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-CI-CD-Deployment?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mobile-CI-CD-Deployment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-CI-CD-Deployment?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-CI-CD-Deployment/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mobile-CI-CD-Deployment?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-CI-CD-Deployment/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mobile-CI-CD-Deployment?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-CI-CD-Deployment/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -64,9 +64,9 @@ Below is the comparative breakdown of premier hosted mobile CI/CD platforms, sor
 
 ## 🛠️ Open-Source GitHub Projects
 
-Explore the top open-source tools, CLI utilities, and self-hosted test execution frameworks powering mobile delivery pipelines, ranked in **descending order by GitHub star count**:
+Explore the top open-source tools, CLI utilities, and self-hosted test execution frameworks powering mobile delivery pipelines, ranked in **descending order by GitHub Stars_Count**:
 
-### 1. [Fastlane](https://github.com/fastlane/fastlane) [![GitHub stars](https://img.shields.io/github/stars/fastlane/fastlane?style=social&color=white)](https://github.com/fastlane/fastlane/stargazers)
+### 1. [Fastlane](https://github.com/fastlane/fastlane) [![GitHub_Stars](https://img.shields.io/github/stars/fastlane/fastlane?style=social&color=white)](https://github.com/fastlane/fastlane/stargazers)
 * **License**: MIT
 * **Primary Role**: The industry-standard automation engine for iOS and Android deployments.
 * **Core Capabilities**:
@@ -75,7 +75,7 @@ Explore the top open-source tools, CLI utilities, and self-hosted test execution
   - `pilot` & `supply`: Deploys binaries directly to Apple TestFlight and Google Play Console release tracks.
   - `deliver` & `snapshot`: Automates App Store multilingual metadata, localized screenshots, and app review submissions.
 
-### 2. [Appium](https://github.com/appium/appium) [![GitHub stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers)
+### 2. [Appium](https://github.com/appium/appium) [![GitHub_Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers)
 * **License**: Apache-2.0
 * **Primary Role**: Cross-platform mobile test automation framework.
 * **Core Capabilities**:
@@ -83,7 +83,7 @@ Explore the top open-source tools, CLI utilities, and self-hosted test execution
   - Operates over the W3C WebDriver specification, allowing teams to script CI regression tests in TypeScript, Python, Java, or Go.
   - Direct integration with local device USB hubs, cloud testing grids, and simulator pools.
 
-### 3. [Maestro](https://github.com/mobile-dev-inc/maestro) [![GitHub stars](https://img.shields.io/github/stars/mobile-dev-inc/maestro?style=social&color=white)](https://github.com/mobile-dev-inc/maestro/stargazers)
+### 3. [Maestro](https://github.com/mobile-dev-inc/maestro) [![GitHub_Stars](https://img.shields.io/github/stars/mobile-dev-inc/maestro?style=social&color=white)](https://github.com/mobile-dev-inc/maestro/stargazers)
 * **License**: Apache-2.0
 * **Primary Role**: Declarative, painless mobile UI test automation for iOS and Android.
 * **Core Capabilities**:
@@ -91,14 +91,14 @@ Explore the top open-source tools, CLI utilities, and self-hosted test execution
   - Simple, human-readable YAML syntax that can be reviewed in PRs and run effortlessly inside CI runners without heavy WebDriver overhead.
   - Seamless support for React Native, Flutter, Native iOS (SwiftUI/UIKit), and Android (Jetpack Compose).
 
-### 4. [CocoaPods](https://github.com/CocoaPods/CocoaPods) [![GitHub stars](https://img.shields.io/github/stars/CocoaPods/CocoaPods?style=social&color=white)](https://github.com/CocoaPods/CocoaPods/stargazers)
+### 4. [CocoaPods](https://github.com/CocoaPods/CocoaPods) [![GitHub_Stars](https://img.shields.io/github/stars/CocoaPods/CocoaPods?style=social&color=white)](https://github.com/CocoaPods/CocoaPods/stargazers)
 * **License**: MIT
 * **Primary Role**: The veteran Swift and Objective-C dependency manager for Apple projects.
 * **Core Capabilities**:
   - Standardizes third-party framework resolution for legacy and modern iOS continuous integration pipelines.
   - Supports deterministic lockfiles (`Podfile.lock`) to ensure repeatable, bit-for-bit identical CI builds across local machines and cloud runners.
 
-### 5. [Detox](https://github.com/wix/Detox) [![GitHub stars](https://img.shields.io/github/stars/wix/Detox?style=social&color=white)](https://github.com/wix/Detox/stargazers)
+### 5. [Detox](https://github.com/wix/Detox) [![GitHub_Stars](https://img.shields.io/github/stars/wix/Detox?style=social&color=white)](https://github.com/wix/Detox/stargazers)
 * **License**: MIT
 * **Primary Role**: Gray box end-to-end testing and automation library for mobile applications (by Wix).
 * **Core Capabilities**:
@@ -106,7 +106,7 @@ Explore the top open-source tools, CLI utilities, and self-hosted test execution
   - Eradicates non-deterministic test failures inside CI/CD pipelines.
   - Highly optimized for React Native and native Android/iOS view hierarchies.
 
-### 6. [Tuist](https://github.com/tuist/tuist) [![GitHub stars](https://img.shields.io/github/stars/tuist/tuist?style=social&color=white)](https://github.com/tuist/tuist/stargazers)
+### 6. [Tuist](https://github.com/tuist/tuist) [![GitHub_Stars](https://img.shields.io/github/stars/tuist/tuist?style=social&color=white)](https://github.com/tuist/tuist/stargazers)
 * **License**: MIT
 * **Primary Role**: Xcode project generator and build orchestration engine.
 * **Core Capabilities**:
@@ -114,14 +114,14 @@ Explore the top open-source tools, CLI utilities, and self-hosted test execution
   - Provides binary artifact caching: downloads pre-compiled modules from remote cloud caches so CI only builds what has changed.
   - Cuts enterprise iOS CI compilation times by 50% to 80%.
 
-### 7. [Danger](https://github.com/danger/danger) [![GitHub stars](https://img.shields.io/github/stars/danger/danger?style=social&color=white)](https://github.com/danger/danger/stargazers)
+### 7. [Danger](https://github.com/danger/danger) [![GitHub_Stars](https://img.shields.io/github/stars/danger/danger?style=social&color=white)](https://github.com/danger/danger/stargazers)
 * **License**: MIT
 * **Primary Role**: Pull request chore automation and team culture enforcer.
 * **Core Capabilities**:
   - Inspects mobile PR diffs during CI runs to ensure changelog updates, test additions, and semantic PR guidelines are respected.
   - Posts actionable comments, inline file warnings, and build size delta alerts directly on GitHub, GitLab, and Bitbucket pull requests.
 
-### 8. [xcbeautify](https://github.com/cpisciotta/xcbeautify) [![GitHub stars](https://img.shields.io/github/stars/cpisciotta/xcbeautify?style=social&color=white)](https://github.com/cpisciotta/xcbeautify/stargazers)
+### 8. [xcbeautify](https://github.com/cpisciotta/xcbeautify) [![GitHub_Stars](https://img.shields.io/github/stars/cpisciotta/xcbeautify?style=social&color=white)](https://github.com/cpisciotta/xcbeautify/stargazers)
 * **License**: MIT
 * **Primary Role**: Fast CLI log formatter for `xcodebuild`.
 * **Core Capabilities**:
@@ -129,7 +129,7 @@ Explore the top open-source tools, CLI utilities, and self-hosted test execution
   - Native Swift binary with minimal resource consumption on CI runners.
   - Generates native GitHub Actions workflow commands to render inline compile error annotations on pull request diffs.
 
-### 9. [Zealot](https://github.com/tryzealot/zealot) [![GitHub stars](https://img.shields.io/github/stars/tryzealot/zealot?style=social&color=white)](https://github.com/tryzealot/zealot/stargazers)
+### 9. [Zealot](https://github.com/tryzealot/zealot) [![GitHub_Stars](https://img.shields.io/github/stars/tryzealot/zealot?style=social&color=white)](https://github.com/tryzealot/zealot/stargazers)
 * **License**: MIT
 * **Primary Role**: Self-hosted Over-The-Air (OTA) beta application distribution platform.
 * **Core Capabilities**:
@@ -137,28 +137,28 @@ Explore the top open-source tools, CLI utilities, and self-hosted test execution
   - Supports iOS, Android, macOS, Linux, and Windows build binaries.
   - Automatically parses IPA/APK metadata, synchronizes test device UDIDs with the Apple Developer Portal, and provides Fastlane plugins for automated uploads.
 
-### 10. [Sentry CLI](https://github.com/getsentry/sentry-cli) [![GitHub stars](https://img.shields.io/github/stars/getsentry/sentry-cli?style=social&color=white)](https://github.com/getsentry/sentry-cli/stargazers)
+### 10. [Sentry CLI](https://github.com/getsentry/sentry-cli) [![GitHub_Stars](https://img.shields.io/github/stars/getsentry/sentry-cli?style=social&color=white)](https://github.com/getsentry/sentry-cli/stargazers)
 * **License**: BSD-3-Clause
 * **Primary Role**: Release orchestration and symbolication utility.
 * **Core Capabilities**:
   - Integrates into mobile CI/CD pipelines to automatically extract and upload iOS `dSYM` debug symbol archives and Android ProGuard / R8 mapping files.
   - Associates release versions with git commit hashes for precise crash triaging and performance tracking.
 
-### 11. [Flank](https://github.com/Flank/flank) [![GitHub stars](https://img.shields.io/github/stars/Flank/flank?style=social&color=white)](https://github.com/Flank/flank/stargazers)
+### 11. [Flank](https://github.com/Flank/flank) [![GitHub_Stars](https://img.shields.io/github/stars/Flank/flank?style=social&color=white)](https://github.com/Flank/flank/stargazers)
 * **License**: Apache-2.0
 * **Primary Role**: Massively parallel Android and iOS test runner for Firebase Test Lab.
 * **Core Capabilities**:
   - Intelligently shards XCTest and Espresso test matrices across dozens of cloud devices simultaneously.
   - Re-runs failed tests automatically to distinguish genuine regressions from intermittent hardware flakes.
 
-### 12. [rules_apple](https://github.com/bazelbuild/rules_apple) [![GitHub stars](https://img.shields.io/github/stars/bazelbuild/rules_apple?style=social&color=white)](https://github.com/bazelbuild/rules_apple/stargazers)
+### 12. [rules_apple](https://github.com/bazelbuild/rules_apple) [![GitHub_Stars](https://img.shields.io/github/stars/bazelbuild/rules_apple?style=social&color=white)](https://github.com/bazelbuild/rules_apple/stargazers)
 * **License**: Apache-2.0
 * **Primary Role**: Bazel build rules for Apple platforms.
 * **Core Capabilities**:
   - Enables hermetic, reproducible compilation, packaging, and code signing for iOS, macOS, watchOS, and tvOS apps at massive scale.
   - Integrates with distributed remote build caches to achieve sub-minute build turnarounds for large engineering organizations.
 
-### 13. [Oore CI](https://github.com/oore-ci/oore.build) [![GitHub stars](https://img.shields.io/github/stars/oore-ci/oore.build?style=social&color=white)](https://github.com/oore-ci/oore.build/stargazers)
+### 13. [Oore CI](https://github.com/oore-ci/oore.build) [![GitHub_Stars](https://img.shields.io/github/stars/oore-ci/oore.build?style=social&color=white)](https://github.com/oore-ci/oore.build/stargazers)
 * **License**: MIT
 * **Primary Role**: Self-hosted, Flutter-first mobile CI runner and distribution daemon.
 * **Core Capabilities**:
@@ -195,7 +195,7 @@ Contributions to expand and refine this ecosystem directory are warmly welcomed!
 2. 🌿 **Create a Feature Branch**: `git checkout -b feature/add-new-mobile-tool`.
 3. 📝 **Add Your Entry**:
    - For **SaaS platforms**: Add to the SaaS table including exact starting tier pricing, explicit free tier limits, and valuation/revenue metrics.
-   - For **Open-Source projects**: Include project name, shields.io star badge (`style=social&color=white` linking to stargazers), license, and key capabilities.
+   - For **Open-Source projects**: Include project name, shields.io Stars_Badge (`style=social&color=white` linking to stargazers), license, and key capabilities.
 4. 🧪 **Verify Formatting**: Ensure markdown table syntax and anchor links render properly.
 5. 🚀 **Submit a Pull Request**: Provide a brief summary of why the tool is valuable to the mobile engineering community.
 
